@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Forever 🌹</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="story.html">Our Story</a>
+<a href="gallery.html">Gallery</a>
+<a href="letter.html">Letter</a>
+<a href="proposal.html">Proposal</a>
+<a href="forever.html">Forever</a>
+</nav>
+
+<div class="container">
+<h1>Forever & Always 💖</h1>
+<p>
+No matter what happens,  
+I choose you.  
+Today, tomorrow, and forever ✨
+</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
